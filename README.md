@@ -1,2 +1,1 @@
-# node-express-test
-node-express-test
+MDN上实践的一个Node+express+mongoDB网站
